@@ -31,11 +31,11 @@ On peut par exemple récupérer les ventes de rtx3060 a l'aide de la commande su
 curl "http://0.0.0.0:5000/rtx3060"
 
 
-# script bash nommé exam.sh dont les droits d’exécution sont -rwx---r-x.
+script bash nommé exam.sh dont les droits d’exécution sont -rwx---r-x.
 
-# Le script bash devra récupérer les chiffres correspondant au ventes des différentes carte graphique et écrire les information dans un # fichier sales.txt
+Le script bash devra récupérer les chiffres correspondant au ventes des différentes carte graphique et écrire les information dans un # fichier sales.txt
 
-# Cron Job qui exécute mon script toutes les minutes seulement durant les mois de fevrier à juillet (copier le Cron Job dans un fichier # cron.txt dans le dossier)
+Cron Job qui exécute mon script toutes les minutes seulement durant les mois de fevrier à juillet (copier le Cron Job dans un fichier # cron.txt dans le dossier)
 
 
 
